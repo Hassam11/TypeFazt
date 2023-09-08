@@ -1,0 +1,91 @@
+[
+  {
+    "id": 0,
+    "movie": "El Padrino",
+    "year": 1972,
+    "phrase": "Voy a hacerle una oferta que no podrá rechazar",
+    "character": "Don Vito Corleone"
+  },
+  {
+    "id": 1,
+    "movie": "Forrest Gump",
+    "year": 1994,
+    "phrase": "La vida es como una caja de chocolates, nunca sabes qué te va a tocar.",
+    "character": "Forrest Gump"
+  },
+  {
+    "id": 2,
+    "movie": "Star Wars: Episodio IV - Una nueva esperanza",
+    "year": 1977,
+    "phrase": "Que la Fuerza te acompañe.",
+    "character": "Obi-Wan Kenobi"
+  },
+  {
+    "id": 3,
+    "movie": "Titanic",
+    "year": 1997,
+    "phrase": "Soy el rey del mundo.",
+    "character": "Jack Dawson"
+  },
+  {
+    "id": 4,
+    "movie": "El Señor de los Anillos: La Comunidad del Anillo",
+    "year": 2001,
+    "phrase": "Un Anillo para gobernarlos a todos, un Anillo para encontrarlos, un Anillo para atraerlos a todos y atarlos en las tinieblas.",
+    "character": "Gandalf"
+  },
+  {
+    "id": 5,
+    "movie": "Lo que el viento se llevó",
+    "year": 1939,
+    "phrase": "Francamente, querida, me importa un bledo",
+    "character": "Clark Gable"
+  }
+  ,
+  {
+    "id": 6,
+    "movie": "El mago de Oz",
+    "year": 1939,
+    "phrase": "Me parece que ya no estamos en Kansas",
+    "character": "Dorothy"
+  }
+  ,
+  {
+    "id": 7,
+    "movie": "El crepúsculo de los dioses",
+    "year": 1950,
+    "phrase": "Cuando quieras señor DeMille, estoy lista para rodar",
+    "character": "Gloria Swanson"
+  }
+  ,
+  {
+    "id": 8,
+    "movie": "Star Wars  ",
+    "year": 1977,
+    "phrase": "Que la fuerza te acompañe",
+    "character": "Han Solo"
+  }
+  ,
+  {
+    "id": 9,
+    "movie": "Taxi Driver" ,
+    "year": 1976,
+    "phrase": "¿Hablas conmigo?",
+    "character": "Travis Bickle"
+  }
+  ,
+  {
+    "id": 10,
+    "movie": "Apocalypse now" ,
+    "year": 1979,
+    "phrase": "Qué delicia oler napalm por la mañana",
+    "character": "Coronel Kilgore"
+  }
+  ,{
+    "id": 11,
+    "movie": "SAW",
+    "year": 1975,
+    "phrase": "Vas a necesitar un barco muy grande",
+    "character": "Capitán Quint"
+  }
+]
